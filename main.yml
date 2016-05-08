@@ -1,0 +1,4 @@
+---
+- hosts: observers
+  roles:
+    - openbazaar
